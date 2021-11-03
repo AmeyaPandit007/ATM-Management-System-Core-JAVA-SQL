@@ -1,0 +1,17 @@
+                                                   ATM MANAGEMENT SYSTEM
+  ___________________________________________________________________________________________________________________________________________________________
+Group members:
+1)Ameya Pandit
+2)Chaitanya Giram
+3)Srushti Kulkarni
+4)Bhagyashri Thombre
+  
+---------------------
+Prerequisite :
+As you may know for having atm you must have bank account there in any authenticated bank.So for building ATM Management System we first had to build basic banking system.Where we are providing application forms to user who is not having account in bank,it include signup file,signup2 file,signup3 file.
+
+Cheif topic:
+Our topic ATM Management System,we conclude it in  9 files which include Transaction file,Withdrawl file,Deposit file,PinChange file,MiniStstement File,Login file,FastCash File,BalanceEnquiry file & for establishing connect with database conn file is there.
+                     
+
+                                                      Thank You!!
